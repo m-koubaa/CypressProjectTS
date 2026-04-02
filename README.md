@@ -7,12 +7,22 @@ Projet de formation aux tests E2E avec Cypress et TypeScript.
 - Node.js 18+ ([télécharger](https://nodejs.org))
 
 ## Installation
+
+### Option 1 : Cloner avec Git
 ```bash
-# Cloner le projet
 git clone https://github.com/m-koubaa/CypressProjectTS.git
 cd CypressProjectTS
+npm install
+```
 
-# Installer les dépendances
+### Option 2 : Télécharger le ZIP
+
+1. Cliquer sur le bouton **Code** (vert) sur GitHub
+2. Cliquer sur **Download ZIP**
+3. Extraire le fichier ZIP
+4. Ouvrir un terminal dans le dossier extrait
+```bash
+cd CypressProjectTS-main
 npm install
 ```
 
