@@ -35,3 +35,7 @@
 //     }
 //   }
 // }
+
+// =============================================
+// DÉCLARATION DES TYPES
+import './commands/index'

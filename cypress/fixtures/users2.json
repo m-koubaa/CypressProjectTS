@@ -1,0 +1,18 @@
+[
+    {
+    "username": "mercury",
+    "password": "mercury",
+    "message": "Login Successfully"
+    },
+    {
+        "username": "mercury12",
+        "password": "mercury",
+        "message": "Login Successfully",
+        "result": "fail"
+    },
+    {
+        "username": "mercury",
+        "password": "mercury",
+        "message": "Login Successfully"
+    }
+]
